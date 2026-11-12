@@ -1,5 +1,5 @@
 # FDrive
-Foc-control Driver for Brushless motor
+High-current 3-phase power stage driver designed for FOC control of BLDC/PMSM motors.
 <table>
   <tr>
     <td width="50%" align="center">
@@ -15,9 +15,9 @@ Foc-control Driver for Brushless motor
 
 ## 🚀 Key Features
 
-* **Control Algorithm:** Advanced Field-Oriented Control (FOC) for smooth torque and precise speed regulation.
+* **Control Compatibility:** Designed to work with external microcontrollers (STM32, ESP32, Arduino, etc.) running Field-Oriented Control (FOC) or 6-step commutation algorithms.
 * **Power Stage:** Triple Infineon BTN7960 half-bridge ICs delivering high-current capability with integrated thermal and current protection.
-* **Application:** Designed for high-power brushless DC (BLDC) and PMSM motor control systems.
+* **Application:** Built as a high-power 3-phase inverter stage for brushless DC (BLDC) and PMSM motor control systems.
 
 ## Demo
 Test with velocity mode and position mode
