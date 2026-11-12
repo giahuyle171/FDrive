@@ -24,12 +24,16 @@ Test with velocity mode and position mode
 <table>
   <tr>
     <td width="50%" align="center">
-      <video src="FDrive_v1.0/image/2aOboRC9QABEf7RGQp5yapleHgeSaECQ3SFzitw8.mp4" controls width="80%"></video>
+      <video src="https://github.com/user-attachments/assets/580550fb-ced1-4705-a24c-dcd15c0853f7" controls width="100%"></video>
       <br>
+      <sub><b>FDrive</b> - Test Video 1</sub>
     </td>
     <td width="50%" align="center">
-      <video src="FDrive_v1.0/image/2aOboRC9QBeSTQedibG8EQP3NNOzp01QxA8PHKF6.mp4" controls width="80%"></video>
+      <video src="https://github.com/user-attachments/assets/6849a1d4-4c6d-4fc8-9c0a-42d315c67e0e" controls width="100%"></video>
       <br>
+      <sub><b>FDrive</b> - Test Video 2</sub>
     </td>
   </tr>
 </table>
+
+
